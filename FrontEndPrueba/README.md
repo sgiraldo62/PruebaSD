@@ -1,1 +1,2 @@
-PRUEBA TECNICA
+Correr npm install
+Correr ng serve
